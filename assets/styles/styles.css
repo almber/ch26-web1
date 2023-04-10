@@ -1,0 +1,11 @@
+
+body {
+    background-image: url("../img/");
+    font-family: sans-serif;
+    color:blue;
+}
+
+h1{
+    text-align:center;
+    pading: 20px;
+}
